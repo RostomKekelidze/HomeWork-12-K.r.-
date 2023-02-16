@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4263361-513c-4ed2-a0b1-de49b3ba889b" name="Changes" comment="" />
+    <list default="true" id="c4263361-513c-4ed2-a0b1-de49b3ba889b" name="Changes" comment="12">
+      <change afterPath="$PROJECT_DIR$/../HomeWork-12.K.R/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-12.K.R/src/lesson2/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-12.K.R/src/lesson2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-12.K.R/src/lesson2/HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-12.K.R/src/lesson2a/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-12.K.R/src/lesson2a/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork-12.K.R/src/lesson2a/HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork-12.K.R/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork-12.K.R/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork-12.K.R/out/production/HomeWork-12.K.R/HomeWork.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork-12.K.R/src/HomeWork.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,22 +28,44 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../HomeWork-12.K.R" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../HomeWork-12.K.R" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LRuWGxZLI2WWBLd2p1pm9QANSb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2022/IdeaProjects/HomeWork-12.K.R/src/lesson2a&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2022\IdeaProjects\HomeWork-12.K.R\src\lesson2a" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,10 +75,25 @@
       <option name="presentableId" value="Default" />
       <updated>1675846247779</updated>
       <workItem from="1675846248950" duration="71000" />
+      <workItem from="1676460547052" duration="2609000" />
+      <workItem from="1676476940582" duration="904000" />
+      <workItem from="1676546149051" duration="5220000" />
     </task>
+    <task id="LOCAL-00001" summary="12">
+      <created>1676461005753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676461005753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12" />
+    <option name="LAST_COMMIT_MESSAGE" value="12" />
   </component>
 </project>
